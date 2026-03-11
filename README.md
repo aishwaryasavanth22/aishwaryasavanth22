@@ -35,7 +35,7 @@ I believe that consistent learning, practical experimentation and real-world pro
 
 #### PROJECTS :
 
-✈️[Flight Price Prediction]([https://github.com/aishwaryasavanth22/Flight-Booking-Price-Prediction.git](https://github.com/aishwaryasavanth22/Flight-Booking-Price-Prediction/blob/main/Flight%20Booking%20Price%20Prediction.ipynb))
+✈️[Flight Price Prediction](https://github.com/aishwaryasavanth22/Flight-Booking-Price-Prediction/blob/main/Flight%20Booking%20Price%20Prediction.ipynb)
 
 💳[Credit Card Fraud Detection]()
 
