@@ -29,13 +29,13 @@ I believe that consistent learning, practical experimentation and real-world pro
 
 #### PROJECTS :
 
-[✈️ Flight Price Prediction](https://github.com/aishwaryasavanth22/Flight-Booking-Price-Prediction.git)
+✈️[Flight Price Prediction](https://github.com/aishwaryasavanth22/Flight-Booking-Price-Prediction.git)
 
-[💳 Credit Card Fraud Detection]()
+💳[Credit Card Fraud Detection]()
 
-[🚬 Smoker vs Non-Smoker Classification]()
+🚬[Smoker vs Non-Smoker Classification]()
 
-[🦠 COVID-19 Time Series Forecasting]()
+🦠[COVID-19 Time Series Forecasting]()
 
 
 🌱 Currently Learning : Advanced Machine Learning Algorithms / Deep Learning / Generative AI / Model Optimization / MLOps Fundamentals.
