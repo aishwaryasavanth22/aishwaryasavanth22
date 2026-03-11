@@ -42,15 +42,12 @@ I believe that consistent learning, practical experimentation and real-world pro
 
 📫 Connect With Me
 
-[LinkedIn](linkedin.com/in/aishwaryasavanth)
+LinkedIn : https://www.linkedin.com/in/aishwaryasavanth/
 
 Work Email : savanthaishwarya0@gmail.com
 
-GitHub Stats :
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwaryasavanth22&show_icons=true&theme=radical)
 
-## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 <p align="left">
